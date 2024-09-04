@@ -14,9 +14,8 @@
 - 管理者ユーザーと一般ユーザーで権限を分け、管理者ユーザーのみが上記ユーザー情報の操作を行える
 - 管理者ユーザーが作成した仮アカウントを一般ユーザーがログインしプロフィール編集やパスワード変更を行う
 - パスワードはパスワードハッシングにより暗号化し、セキュリティ性を高める
-  今回C#.NET COREでの開発を想定しているため、PasswordHasherクラスを使うことで実現する
-PasswordHasher<TUser>クラス<https://learn.microsoft.com/ja-jp/dotnet/api/microsoft.aspnetcore.identity.passwordhasher-1?view=aspnetcore-8.0>
-- 
+ 今回C#.NET COREでの開発を想定しているため、PasswordHasherクラスを使うことで実現する
+ <https://learn.microsoft.com/ja-jp/dotnet/api/microsoft.aspnetcore.identity.passwordhasher-1?view=aspnetcore-8.0>
 
 ユーザー情報は以下を登録できる。
 
@@ -33,9 +32,6 @@ PasswordHasher<TUser>クラス<https://learn.microsoft.com/ja-jp/dotnet/api/micr
 バック
 
 フロント
-
-チャットの内容は自動でバックアップを取得し、
-
 
 ## 概要
 
@@ -57,5 +53,5 @@ A社依頼の元
 
 ## 画面遷移図
 
-Prottにて管理
-<https://prottapp.com/app/#/projects/666af4989a03466af4ab0c87>
+STUDIOにて管理
+<https://app.studio.design/projects/nBW2pyjeqv/dashboard/home>
