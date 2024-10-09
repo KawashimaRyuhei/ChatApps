@@ -44,7 +44,7 @@ A社社員であり、入社7年目、チーム運営の経験も積みつつ自
 - 管理者ユーザーと一般ユーザー、で権限を分け、一般ユーザーはユーザー登録・情報更新を行える
 - 管理者ユーザーはユーザー登録・情報更新・削除操作を行える
 - パスワードはパスワードハッシングにより暗号化し、セキュリティ性を高める
- 今回C#.NET COREでの開発を想定しているため、PasswordHasherクラスを使うことで実現する
+ 今回C#.NET COREでの開発を想定しているため、PasswordHashクラスを使うことで実現する
  <https://learn.microsoft.com/ja-jp/dotnet/api/microsoft.aspnetcore.identity.passwordhasher-1?view=aspnetcore-8.0>
 
 ユーザー情報は以下を登録できる。
@@ -55,6 +55,10 @@ A社社員であり、入社7年目、チーム運営の経験も積みつつ自
 - プロフィール画像
 
 ## アーキテクト
+
+.NET SDK 8.0.403
+.NET Runtime 8.0.10
+ASP.NET Core Runtime 8.0.10
 
 バックエンド  
 C#  
