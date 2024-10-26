@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="5mzLb48JTDCktutmIMSx" name="ページ1">
+        <mxGraphModel dx="682" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="トップ画面" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="40" width="334" height="840" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="チャットルーム" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="40" y="35" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="アカウント機能" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="40" y="280" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="管理者機能" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="40" y="520" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="チャットルーム" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="40" width="334" height="630" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="チャット機能" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+                    <mxGeometry x="40" y="35" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="アカウント設定" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="40" width="334" height="630" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="アカウント作成" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="8">
+                    <mxGeometry x="40" y="35" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="アカウント設定" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1200" y="40" width="334" height="630" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="アカウント作成" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+                    <mxGeometry x="40" y="35" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="アカウント設定" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="760" width="334" height="630" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="アカウント作成" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="14">
+                    <mxGeometry x="40" y="35" width="200" height="200" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

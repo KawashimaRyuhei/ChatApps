@@ -18,12 +18,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/Views/Home/ChatDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DaGF0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/Views/Home/Rooms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Sb29tcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/Views/Home/Signin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TaWduaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/Views/Home/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/Views/Home/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Vc2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/Views/Shared/Error.cshtml]

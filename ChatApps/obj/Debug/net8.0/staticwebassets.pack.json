@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/wwwroot/images/WindowsXP.jpg",
+      "PackagePath": "staticwebassets/images/WindowsXP.jpg"
+    },
+    {
+      "Id": "/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/wwwroot/images/yadon.png",
+      "PackagePath": "staticwebassets/images/yadon.png"
+    },
+    {
       "Id": "/Users/yyyyxxxx/csharp_apps/ChatApps/ChatApps/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
