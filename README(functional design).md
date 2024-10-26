@@ -56,9 +56,9 @@ A社社員であり、入社6年目、チーム運営の経験も積みつつ自
 
 ## アーキテクト
 
-.NET SDK 8.0.403
-.NET Runtime 8.0.10
-ASP.NET Core Runtime 8.0.10
+.NET SDK 8.0
+.NET Runtime 8.0
+ASP.NET Core Runtime 8.0
 
 バックエンド  
 C#  
