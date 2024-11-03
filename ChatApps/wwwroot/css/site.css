@@ -56,3 +56,8 @@ body {
 .sign-child{
   width: 300px;
 }
+
+.top-wrapper{
+  border: 1px solid black;
+  display: flex;
+}
